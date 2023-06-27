@@ -1,4 +1,4 @@
-# Tejas-Rokade
+
 <div id="header" align="center">
   <h1>
  <img src="https://media.giphy.com/media/sO2cxg14iOifAWXsjQ/giphy.gif" alt="" width="100"/>
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=debasishbsws&style=flat-square&color=blue" alt=""/>
+  
   
 </div>
 
