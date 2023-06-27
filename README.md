@@ -45,13 +45,17 @@ I am an Open-Source Developer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/>&nbsp;
 
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas3103&show_icons=true&locale=en&layout=compact" alt="tejas3103" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejas3103&show_icons=true&locale=en" alt="tejas3103" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas3103&" alt="tejas3103" /></p>
 
 </div>
 
 ---
+
+### :fire: My Stats :
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas3103&show_icons=true&locale=en&layout=compact" alt="tejas3103" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejas3103&show_icons=true&locale=en" alt="tejas3103" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas3103&" alt="tejas3103" /></p>
 
